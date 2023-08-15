@@ -2,22 +2,22 @@ let songs = [
     
     {
         name: 'The Music Spotlight (TMS)',
-        path: '/musics/2023wk19 The Music Spotlight (TMS) ep1 Sad Boys music label.mp3',
+        path: '/musics/Song 3.mp3',
         artist: 'Ep1 Sad Boys music label',
         cover: '/images/2023wk19 The Music Spotlight (TMS) ep1 Sad Boys music label.jpg'
     },
     
     {
         name: 'Bravazo',
-        path: '/musics/2023wk16 Bravazo ep1 Students from Nigeria.mp3',
+        path: '/musics/Song 3.mp3',
         artist: 'Ep3 Students from Nigeria',
         cover: '/images/2023wk16 Bravazo ep1 Students from Nigeria.jpg'
     },
     {
         name: 'Bravazo',
-        path: '/musics/radio1.mp3',
+        path: '/musics/Song 3.mp3',
         artist: 'Ep2 Students from South Africa',
-        cover: '/images/radio1.jpg'
+        cover: '/images/radio2.jpg'
     },
     {
         name: 'Bravazo',
