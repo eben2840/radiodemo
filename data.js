@@ -8,7 +8,7 @@ let songs = [
     },
     {
         name: 'Bravazo',
-        path: './musics/radio2.mp3',
+        path: './musics/Song 4.mp3',
         artist: 'Ep3 Students from South Africa',
         cover: './images/radio2.jpg'
     },
